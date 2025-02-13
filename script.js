@@ -1,4 +1,4 @@
-let clickButton = document.getElementById('button');
+    let clickButton = document.getElementById('button');
     let getId = document.getElementById('list');
     let addTask = document.getElementById('AddTask');
     let listArray = new Array();
